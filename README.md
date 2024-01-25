@@ -10,10 +10,10 @@
 
 ```rust
 let intro = Intro {
-        code: vec!["Typescript", "Go", "Python", "Rust"],
-        tools: vec!["React", "Redux", "Node", "Docker"],
-        db: vec!["MySQL", "MongoDB", "Elasticsearch"],
-        architecture: vec!["microservices", "event-driven", "design system pattern"],
-    };
+    code: vec!["Typescript", "Go", "Python", "Rust"],
+    tools: vec!["React", "Redux", "Node", "Docker"],
+    db: vec!["MySQL", "MongoDB", "Elasticsearch"],
+    architecture: vec!["microservices", "event-driven", "design system pattern"],
+};
 ```
 ---
