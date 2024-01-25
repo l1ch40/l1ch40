@@ -1,22 +1,19 @@
-<h1 align="center">Hi 👋, I'm Chao Li</h1>
+<h2> Hey, I'm Chao Li! </h2>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ254dnZobHZ5MHc4NXVvZjJybmNpNG80bjUxcjZyOHZzZWVmNnBseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J0BqmcZi9zmnlYTDKs/giphy.gif" width="230">
 
-- 🔭 I’m currently working on [Dedao](https://dedao.cn)
-
-- 🌱 I’m currently learning **Flutter, Rust**
-
-- 📝 I regularly write articles on [l1ch40.com](l1ch40.com)
-
-- 📫 How to reach me **l1ch4010@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/l1ch40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l1ch40" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/l1ch40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="l1ch40" height="30" width="40" /></a>
-</p>
+[![Twitter: l1ch40](https://img.shields.io/twitter/follow/l1ch40?style=social)](https://twitter.com/l1ch40)
+[![Linkedin: l1ch40](https://img.shields.io/badge/-l1ch40-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l1ch40/)](https://www.linkedin.com/in/l1ch40/)
+[![GitHub l1ch40](https://img.shields.io/github/followers/l1ch40?label=follow&style=social)](https://github.com/l1ch40)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1ch40&show_icons=true&locale=en&layout=compact" alt="l1ch40" /></p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l1ch40&show_icons=true&locale=en" alt="l1ch40" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l1ch40&" alt="l1ch40" /></p>
+```rust
+let intro = Intro {
+        code: vec!["Typescript", "Go", "Python", "Rust"],
+        tools: vec!["React", "Redux", "Node", "Docker"],
+        db: vec!["MySQL", "MongoDB", "Elasticsearch"],
+        architecture: vec!["microservices", "event-driven", "design system pattern"],
+    };
+```
+---
